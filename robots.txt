@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://mossmeadow-pages.github.io/sitemap.xml
